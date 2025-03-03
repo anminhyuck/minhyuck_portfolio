@@ -169,7 +169,7 @@ const Publications = () => {
                       {appearance.media}
                     </p>
                     <blockquote className="border-l-2 border-purple-500 pl-4 italic text-gray-300">
-                      "{appearance.quote}"
+                      &ldquo;{appearance.quote}&rdquo;
                     </blockquote>
                   </div>
                 </motion.div>
