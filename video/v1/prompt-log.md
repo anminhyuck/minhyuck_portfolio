@@ -2,8 +2,8 @@
 
 | 파일명 | 모델 | 장면 | 비율·해상도 | 결과 | 채택 |
 |---|---|---|---|---|---|
-| S05_style-test_v01 | Nano Banana 2.1 (Figma Weave) | S05 1948 유치원 블록 + 창밖 국군 | 16:9 · 1376×768 | 생성됨 (Weave 출력 ID `cdd14e07-8615-47c9-9403-590a785ed89f`) | 검토 대기 |
-| S15_style-test_v01 | Nano Banana 2.1 (Figma Weave) | S15 야간 경계, 로봇·드론 | 16:9 · 1376×768 | 생성됨 (Weave 출력 ID `3859b117-ab4f-4140-9da3-f44cf98410ab`) | 검토 대기 |
+| S05_style-test_v01 | Nano Banana 2.1 (Figma Weave) | S05 1948 유치원 블록 + 창밖 국군 | 16:9 · 1376×768 | 생성됨 (Weave 출력 ID `cdd14e07-8615-47c9-9403-590a785ed89f`) | **채택: 기준 이미지 (어린 호국이)** |
+| S15_style-test_v01 | Nano Banana 2.1 (Figma Weave) | S15 야간 경계, 로봇·드론 | 16:9 · 1376×768 | 생성됨 (Weave 출력 ID `3859b117-ab4f-4140-9da3-f44cf98410ab`) | **채택: 기준 이미지 (군인 호국이)**, 수정판 필요 |
 | S18_style-test_v01 | — | S18 반전 | — | **실행 안 됨**: Weave 무료 플랜 실행 횟수(2회) 소진 | — |
 
 ## 공통 스타일 문장 (STYLE_BASE 초안)
